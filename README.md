@@ -1,2 +1,2 @@
 # tyro
-neophyte computer programming related stuff
+Comparison of Complexities of various sorting algorithms 
